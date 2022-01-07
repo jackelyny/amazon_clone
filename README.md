@@ -1,6 +1,6 @@
 # Amazon clone
 This is a full stack e-commerce react web application using firebase as backend and stripe for payment processing.
-Note: This react project is a FAKE CLONE. 
+Note: This react project is a FAKE CLONE of the official amazon web app.
 
 Deployed on firebase. 
 
